@@ -21,7 +21,7 @@
 }
 
 .logo-contenedor span {
-  font-size: 70px;
+  font-size: 3.6em;
   font-weight: 800;
   text-shadow: -0.08em 0.03em 0.12em rgba(0, 0, 0, 0.9);
 }
@@ -31,7 +31,7 @@
 }
 
 .calculadora-contenedor {
-  width: 300px;
+  width: 350px;
   height: 500px;
   padding: 14px;
   background-color: #99c9ff;
