@@ -6,8 +6,8 @@
   align-items: center;
   font-weight: bold;
   font-size: 1.6em;
-  background-color: #ac0246;
-  color: white;
+  background-color: #ebb000;
+  color: #030305;
   border-radius: 25px;
   border: 2px solid white;
   margin-top: 8px;
@@ -16,5 +16,5 @@
 }
 
 .boton-clear:hover {
-  background-color: #ebb000;
+  background-color: #FF5733;
 }

@@ -4,6 +4,7 @@ import BotonClear from './componentes/BotonClear';
 import Pantalla from './componentes/Pantalla';
 import { useState } from 'react';
 import { evaluate } from 'mathjs';
+import Titulo from './componentes/Titulo';
 
 function App() {
 
@@ -27,19 +28,7 @@ function App() {
   
   return (
     <div className='App'>
-      <div className="logo-contenedor">
-        <span>C</span>
-        <span>A</span>
-        <span>L</span>
-        <span>C</span>
-        <span>U</span>
-        <span>L</span>
-        <span>A</span>
-        <span>D</span>
-        <span>O</span>
-        <span>R</span>
-        <span>A</span>
-      </div>
+      <Titulo>CALCULADORA</Titulo>
       <div className='calculadora-contenedor'>
           <Pantalla input={input} />
         <div className='fila'>
