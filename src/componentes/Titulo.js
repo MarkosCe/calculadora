@@ -1,4 +1,3 @@
-import { forEach } from 'mathjs';
 import React from 'react';
 import '../hojas-de-estilo/Titulo.css';
 
